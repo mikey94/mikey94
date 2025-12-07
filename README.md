@@ -5,7 +5,7 @@
 </div>
 <div align = 'center'>
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
-  <p align = 'center'><b>A Software engineer with over 7 years of industry experience in web and mobile application solutions. Expertise in Javascript-based technologies. Passionate about finding solutions to problems that the user has knowing how far the functionalities can be compromised to get a solution that is balanced between resources, quality, and time.</b></p> <br>
+  <p align = 'center'><b>A Software engineer with over 8 years of industry experience in web and mobile application solutions. Expertise in Javascript-based technologies. Passionate about finding solutions to problems that the user has knowing how far the functionalities can be compromised to get a solution that is balanced between resources, quality, and time.</b></p> <br>
 </div>
 
 ### ⚙️ &nbsp; Tech Stack :
